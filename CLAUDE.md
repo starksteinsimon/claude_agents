@@ -56,7 +56,6 @@ Cuando un usuario te pase un input o pida ejecutar una tarea, utiliza ÚNICAMENT
 3. Research de Earnings Dates: Actualización incremental trimestral de fechas IR. 👉 Usa `.claude/skills/earnings_dates_research.md`
 4. Extracción de Tacit Knowledge: Procesamiento de recordings de Raúl/Guido hacia Tacit Knowledge DB. 👉 Usa `.claude/skills/tacit_knowledge_extractor.md`
 5. Generador de Monthly Master Document: Consolidation mensual por compañía/trend. 👉 Usa `.claude/skills/monthly_master_document.md`
-6. Ingesta de Signals / Links: Procesamiento de enlaces y notas de analistas. 👉 Usa `.claude/skills/ingest_signal.md`
 
 ⚠️ Reglas Generales de Salida
 
