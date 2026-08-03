@@ -1,0 +1,13 @@
+name: "Orquestador Principal WFB BrAIn"
+
+on:
+  message:
+    channels:
+      - "#signals-and-links"
+      - "#investment-deals"
+      - "#wfb-status-meetings"
+
+action:
+  run_agent:
+    agent: "@FundBrAIn-Orchestrator"
+    workspace: "."
